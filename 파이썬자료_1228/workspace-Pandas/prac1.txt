@@ -1,4 +1,0 @@
-	name	univ	rank
-st1	aa	suwon	2
-st2	bb	suwon	1
-st3	cc	aju	3
